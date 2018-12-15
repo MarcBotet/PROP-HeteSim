@@ -1,5 +1,5 @@
 # PROP-HeteSim
-University project to use relevance search in heterogeneous hetworks (HeteSim) in academic papers
+University project to use relevance search in heterogeneous networks (HeteSim) in academic papers
 
 Programming Projects in Facultat d'Informàtica de Barcelona
 
